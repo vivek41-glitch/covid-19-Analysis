@@ -1,18 +1,15 @@
-.
+COVID-19 Data Analysis Dashboard (Power BI)
+Project Overview
 
- COVID-19 Data Analysis Dashboard (Power BI)
- Project Overview
+This project is an interactive Power BI dashboard built to analyze global COVID-19 data and uncover meaningful insights about the spread, impact, and trends of the pandemic across different countries and time periods.
 
-This project presents an interactive Power BI dashboard for analyzing COVID-19 data.
-The dashboard provides clear insights into the spread, impact, and trends of COVID-19 across regions and time.
+The dashboard focuses on data-driven insights, comparison across regions, and trend analysis to better understand how COVID-19 evolved globally.
 
-This project is created for data analysis and visualization practice using real-world pandemic data.
+Dataset
 
- Dataset
+Dataset Name: Global COVID-19 Statistics Dataset
 
-Dataset Name: Global COVID-19 Statistics Dataset 
-
-Description:
+Includes:
 
 Confirmed cases
 
@@ -26,48 +23,80 @@ Country / Region-wise data
 
 Date-wise records
 
-(Dataset used for educational and analytical purposes)
+Dataset is used strictly for educational and analytical purposes.
 
-Key Insights & Features
+Data Preparation & Modeling
 
-Total confirmed cases, deaths, and recoveries
+Cleaned missing and inconsistent values using Power Query
 
-Country-wise and region-wise comparison
+Standardized country and region names
 
-Trend analysis over time
+Created calculated columns for:
+
+Mortality Rate
+
+Recovery Rate
+
+Built DAX measures for key KPIs
+
+Designed a star-schema based data model for performance
+
+Key Insights
+
+The United States recorded the highest number of confirmed COVID-19 cases globally.
+
+Mortality rates were significantly higher during early phases of the pandemic.
+
+Recovery rates improved noticeably in later periods.
+
+Europe and North America experienced multiple infection waves.
+
+Some regions showed high case counts but comparatively lower mortality rates.
+
+Dashboard Features
+
+Total confirmed cases, deaths, and recoveries (KPIs)
+
+Country-wise and region-wise comparisons
+
+Time-based trend analysis
 
 Mortality and recovery rate analysis
 
-Interactive slicers and filters for exploration
+Interactive slicers and filters for deep exploration
+
 
 Tools & Technologies
 
 Power BI Desktop
 
-Data Cleaning & Transformation (Power Query)
+Power Query (Data Cleaning & Transformation)
+
+DAX (Measures & Calculations)
 
 Data Modeling
 
-DAX Measures
+Objective
 
- Objective
+Analyze the global impact of COVID-19 using real-world data
 
-Understand global COVID-19 impact through data
+Identify critical trends and regional differences
 
-Practice real-world data visualization
+Strengthen Power BI, DAX, and analytical thinking skills
 
-Improve Power BI and analytical thinking skills
+Build a professional-quality analytical dashboard
 
 Future Enhancements
 
-Add vaccination data
+Add vaccination and testing data
 
-Include advanced DAX calculations
+Implement advanced DAX calculations
 
 Improve dashboard UI and storytelling
+
+Include forecast analysis
 
 Feedback
 
 Feedback and suggestions are welcome.
-
-If you find this project useful, consider giving it a star!
+If you find this project useful, consider giving it a ⭐.
