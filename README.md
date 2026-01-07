@@ -1,8 +1,12 @@
 COVID-19 Data Analysis Dashboard (Power BI)
+
 Project Overview:
 This project is an interactive Power BI dashboard built to analyze global COVID-19 data and uncover meaningful insights about the spread, impact, and trends of the pandemic across different countries and time periods.
 The dashboard focuses on data-driven insights, comparison across regions, and trend analysis to better understand how COVID-19 evolved globally.
-Dataset Name: Global COVID-19 Statistics Dataset
+
+Dataset Name:
+Global COVID-19 Statistics Dataset
+
 Includes:
 Confirmed cases
 Deaths
