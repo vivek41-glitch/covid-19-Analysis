@@ -86,5 +86,5 @@ The dashboard provides data-driven insights into how the pandemic evolved across
 ##  Feedback
 
 Feedback and suggestions are welcome.  
-If you find this project useful, consider giving it a on GitHub.
+If you find this project useful, consider giving it a on GitHub....
 
